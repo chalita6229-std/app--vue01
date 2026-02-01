@@ -23,14 +23,23 @@
         <li class="nav-item">
           <a class="nav-link" href="/customer">Customer</a>
         </li>
+         <li class="nav-item">
+          <a class="nav-link" href="/customer_crud">Customer Crud</a>
+        </li>
         <li class="nav-item">
           <a class="nav-link" href="/Contact">Contact</a>
         </li>
          <li class="nav-item">
-          <a class="nav-link" href="/type">type</a>
+          <a class="nav-link" href="/type">Type</a>
+        </li>
+         <li class="nav-item">
+          <a class="nav-link" href="/type_crud">Type Crud</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/employee">employee</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/employee_crud">Employee Crud</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
